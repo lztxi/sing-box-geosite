@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "112114.xyz",
+        "7moor-fs1.com",
+        "7moor-fs2.com",
+        "999888987.xyz",
+        "agit.ai",
+        "beesport.livednow.com",
+        "dnsany.com",
+        "fanmingming.com",
+        "gcable.cn",
+        "kstore.space",
+        "mobaibox.com",
+        "ottdns.com",
+        "wogg.link",
+        "wogg.net",
+        "wogg.xyz",
+        "xhdwc.tk",
+        "xhww.fun",
+        "xxooo.cf",
+        "yangshipin.cn",
+        "王二小放牛娃.top",
+        "王二小放牛娃.xyz",
+        "肥猫.com",
+        "肥猫.live",
+        "饭太硬.com",
+        "饭太硬.top"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "183.206.0.0/15",
+        "183.238.66.0/24",
+        "27.36.0.0/14"
+      ]
+    }
+  ],
+  "version": 1
+}

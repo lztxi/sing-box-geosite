@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "4gtv.tv",
+        "hinet.net",
+        "livednow.com",
+        "mytvsuper.com",
+        "ofiii.com",
+        "orz-7.com",
+        "thetvapp.to"
+      ]
+    }
+  ],
+  "version": 1
+}
