@@ -2,8 +2,7 @@
   "rules": [
     {
       "domain_keyword": [
-        "appdownload.alicdn.com",
-        "log-sdk.ksapisrv.com"
+        "appdownload.alicdn.com"
       ]
     },
     {
