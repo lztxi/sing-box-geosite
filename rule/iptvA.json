@@ -7,11 +7,12 @@
         "7moor-fs2.com",
         "999888987.xyz",
         "agit.ai",
-        "beesport.livednow.com",
         "dnsany.com",
         "fanmingming.com",
         "gcable.cn",
         "kstore.space",
+        "livednow.com",
+        "livednow.org",
         "mobaibox.com",
         "mogg.top",
         "mogg.小胡.top",
@@ -33,9 +34,7 @@
     },
     {
       "ip_cidr": [
-        "183.206.0.0/15",
-        "183.238.66.0/24",
-        "27.36.0.0/14"
+        "183.207.0.0/16"
       ]
     }
   ],
